@@ -1,4 +1,4 @@
-<p align="left">¡Hi! my name is Julian Villate, I'm a recent computer science bachelor graduate who loves to work with data and server-side applications</p>
+<p align="left">¡Hi! My name is Julian Villate. I'm a recent Computer Science graduate with a passion for working with data and server-side applications.</p>
 
 ###
 
