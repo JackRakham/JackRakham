@@ -26,3 +26,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/JackRakham/JackRakham/output/snake.svg" alt="Snake animation" />
+
+###
